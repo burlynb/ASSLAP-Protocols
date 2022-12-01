@@ -13,7 +13,7 @@ book:
       <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://burlynb.github.io/SSL Protocols/
+  site-url: https://burlynb.github.io/SSL-Protocols/
   repo-url: https://github.com/burlynb/ASSLAP-Protocols
   repo-actions: [edit,issue]
 
