@@ -3,18 +3,18 @@ project:
   output-dir: _book
   
 book:
-  title: "Faylab Lab Manual"
-  author: "Gavin Fay & Ashleigh Novak"
+  title: "Steller Sea Lion Population Monitoring Protocols"
+  author: "Burlyn Birkemeier"
   date: last-modified 
-  description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" 
+  description: "This page contains all protocols related to monitoring the endangered Steller sea lion popuation, including the Aerial Survey Protocol, Counting Protocol, and helpful tips for updating SARS, memos, and Tech memos" 
   
   page-footer:
     left: |
       <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://thefaylab.github.io/lab-manual/
-  repo-url: https://github.com/thefaylab/lab-manual
+  site-url: https://burlynb.github.io/SSL Protocols/
+  repo-url: https://github.com/burlynb/ASSLAP-Protocols
   repo-actions: [edit,issue]
 
   chapters: 
