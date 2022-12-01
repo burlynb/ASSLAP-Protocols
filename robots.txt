@@ -1,1 +1,1 @@
-Sitemap: https://burlynb.github.io/SSL-Protocols/sitemap.xml
+Sitemap: https://burlynb.github.io/ASSLAP-Protocols/sitemap.xml
